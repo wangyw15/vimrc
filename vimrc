@@ -5,6 +5,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'vim-airline/vim-airline'
 Plug 'junegunn/vim-easy-align'
 Plug 'junegunn/limelight.vim'
+Plug 'altercation/vim-colors-solarized'
 call plug#end()
 filetype plugin indent on
 set encoding=utf-8
@@ -22,6 +23,3 @@ if has('win32')
         set guifont=Fira_Code:h11
     endif
 endif
-imap qq <esc>
-omap qq <esc>
-vmap qq <esc>

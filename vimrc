@@ -1,6 +1,6 @@
 set nocompatible
 filetype off
-call plug#begin('$VIM/vimfiles/autoload')
+call plug#begin('~/.vim/bundle')
 Plug 'scrooloose/nerdtree'
 Plug 'vim-airline/vim-airline'
 Plug 'junegunn/vim-easy-align'

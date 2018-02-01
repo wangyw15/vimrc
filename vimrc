@@ -6,6 +6,8 @@ Plug 'vim-airline/vim-airline'
 Plug 'junegunn/vim-easy-align'
 Plug 'junegunn/limelight.vim'
 Plug 'altercation/vim-colors-solarized'
+Plug 'godlygeek/tabular'
+Plug 'plasticboy/vim-markdown'
 call plug#end()
 filetype plugin indent on
 set encoding=utf-8
